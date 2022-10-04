@@ -1,3 +1,7 @@
 this is temp file 
 testing merge command (updated on remote  repo)
+
 testing conflict command (updated on personal repo)
+
+test merging process (updated on remote repo)
+
