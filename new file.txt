@@ -1,1 +1,2 @@
 this is temp file 
+testing merge command (updated on remote  repo)
